@@ -1,7 +1,7 @@
 # Mov.it
 Mova-se mesmo desenvolvendo
 
-# Objetivo
+# Objetivo ![Icon](public/favicon.png)
 
 Ajudar sua saúde de uma forma divertida, inspirada em sistema de jogos RPG. Dividir seu tempo de foco em ciclos de 25 minutos, para conseguir o máximo de foco possível. Após o termino de um ciclo é mostrado a você um desafio para exercitar os olhos ou se alongar. Estes desafios foram  desenvolvidos de forma que ajude seu corpo a se mater saudável.
 
@@ -50,6 +50,10 @@ São necessárias as seguintes dependências de desenvolvimento para visualizar 
 npm add @types/js-cookie
 ```
 # Imagens do Mov.it
+![Icon](public/homeMovit.png)
+![Icon](public/contadorMovit.png)
+![Icon](public/desafioMovit.png)
+![Icon](public/levelupMovit.png)
 
 
 
