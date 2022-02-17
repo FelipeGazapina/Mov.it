@@ -52,5 +52,5 @@ jobs:
         with:
           app-name: 'amrl-angular'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_4D9CF7F092A949CE901DE1FC9DC8885D }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_3A4E2798A47247CFB6957E3A5BFFCB4A }}
           package: .
