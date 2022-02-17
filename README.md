@@ -50,10 +50,10 @@ São necessárias as seguintes dependências de desenvolvimento para visualizar 
 npm add @types/js-cookie
 ```
 # Imagens do Mov.it
-![Icon](public/homeMovit.png)
-![Icon](public/contadorMovit.png)
-![Icon](public/desafioMovit.png)
-![Icon](public/levelupMovit.png)
+[Icon](public/homeMovit.png)
+[Icon](public/contadorMovit.png)
+[Icon](public/desafioMovit.png)
+[Icon](public/levelupMovit.png)
 
 
 
